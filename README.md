@@ -5,7 +5,7 @@ server in the server room by using a BME280 sensor and raspberry pi respectively
 
 Objectives 
 ● To implement the transmission of the data to the server in real-time mode  
-through OpenStack. 
+  through OpenStack. 
 ● To help avoid heat build-up in a server room like industries or student  IT institutions.  
 ● To carry out server rooms from unexpected changes in rooms heating when power failure.
 
